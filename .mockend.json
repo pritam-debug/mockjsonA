@@ -1,0 +1,11 @@
+{
+  "Employee" :{
+    "ID": "int",
+    "FirstName": "string",
+    "LastName": "string",
+    "Gender": "string",
+    "Salary": "int",
+    "Country": "string",
+    "ShowExtended": "boolean"
+  }
+}
